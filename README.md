@@ -15,7 +15,7 @@
 
 **A compléter**
 
-Pour voir le projet en action, visitez [Notre site](https://paulrubens.gitlab.io/portfolio/).
+Pour voir le projet en action, visitez [Notre site](Florian-Lecourt.github.io).
 
 ## ✨ Fonctionnalités
 
