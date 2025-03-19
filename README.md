@@ -1,4 +1,4 @@
-# Portfolio de Paulrubens
+# Draft site web projet IA-Emotions
 
 ![Banniere du projet](./rsc/banner.png)
 

@@ -86,5 +86,11 @@ article .card-container, article .card-image, article header{
     flex-wrap: wrap;
 }
 
+.logo {
+    width: 100px;
+    padding: 5px;
+}
 
-
+.profilepicture {
+    width: 200px;
+}
